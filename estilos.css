@@ -1,0 +1,40 @@
+        body{
+			text-align:center;}
+		#tabla_moviles{  
+			display:inline-block;
+			width:1200px;
+			height:600px;
+			border:0px;}
+		#r1{
+		   height:200px;}
+		#d1{     
+			width:230px;
+			background-color:yellow;
+		    text-align:center;}
+	    h1{
+			font-size:3em;}
+	    #d2{
+			width:30px;}
+		#d3{	 
+			width:928px;
+			background-color:red;}
+	    .t1{
+			text-decoration:underline;}
+	    .t2{
+			font-weight:bold;}
+	    .t3{
+			font-style:italic;}
+		.f1{	
+			width:140px;}
+	    #f2{
+			width:270px;}
+		#f3{
+			width:210px;}
+		#co1{
+			color: blue;}
+		.e1{
+			height:20px;}	
+		#t1{
+			width:200px; background:url('images.img'); color: blue;}
+		.enl a{
+			color: blue;}
